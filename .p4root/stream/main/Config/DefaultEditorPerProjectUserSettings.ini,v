@@ -1,0 +1,46 @@
+head     1.60959;
+access   ;
+symbols  ;
+locks    ;comment  @@;
+
+
+1.60959
+date     2021.10.18.20.43.25;  author p4;  state Exp;
+branches ;
+next     1.60579;
+
+1.60579
+date     2021.10.06.04.31.15;  author p4;  state Exp;
+branches ;
+next     1.60105;
+
+1.60105
+date     2021.09.30.16.40.45;  author p4;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@@
+
+
+1.60959
+log
+@@
+text
+@[ContentBrowser]
+ContentBrowserTab1.SelectedPaths=/Game/ThirdPersonBP@
+
+
+1.60579
+log
+@@
+text
+@@
+
+
+1.60105
+log
+@@
+text
+@@

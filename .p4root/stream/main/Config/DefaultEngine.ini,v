@@ -1,0 +1,100 @@
+head     1.60959;
+access   ;
+symbols  ;
+locks    ;comment  @@;
+
+
+1.60959
+date     2021.10.18.20.43.25;  author p4;  state Exp;
+branches ;
+next     1.60891;
+
+1.60891
+date     2021.10.18.06.07.42;  author p4;  state Exp;
+branches ;
+next     1.60889;
+
+1.60889
+date     2021.10.18.05.18.16;  author p4;  state Exp;
+branches ;
+next     1.60579;
+
+1.60579
+date     2021.10.06.04.31.15;  author p4;  state Exp;
+branches ;
+next     1.60105;
+
+1.60105
+date     2021.09.30.16.40.45;  author p4;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@@
+
+
+1.60959
+log
+@@
+text
+@[URL]
+GameName=Contain
+
+[/Script/EngineSettings.GameMapsSettings]
+EditorStartupMap=/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+GameDefaultMap=/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+TransitionMap=
+bUseSplitscreen=True
+TwoPlayerSplitscreenLayout=Horizontal
+ThreePlayerSplitscreenLayout=FavorTop
+GlobalDefaultGameMode=/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+GlobalDefaultServerGameMode=None
+GameInstanceClass=/Game/MainHub/Portal/GI_Portal.GI_Portal_C
+
+[/Script/IOSRuntimeSettings.IOSRuntimeSettings]
+MinimumiOSVersion=IOS_12
+
+[/Script/HardwareTargeting.HardwareTargetingSettings]
+TargetedHardwareClass=Desktop
+AppliedTargetedHardwareClass=Desktop
+DefaultGraphicsPerformance=Maximum
+AppliedDefaultGraphicsPerformance=Maximum
+
+[/Script/Engine.Engine]
++ActiveGameNameRedirects=(OldGameName="TP_ThirdPersonBP",NewGameName="/Script/Contain")
++ActiveGameNameRedirects=(OldGameName="/Script/TP_ThirdPersonBP",NewGameName="/Script/Contain")
+
+@
+
+
+1.60891
+log
+@@
+text
+@@
+
+
+1.60889
+log
+@@
+text
+@d13 1
+a13 1
+GameInstanceClass=None
+@
+
+
+1.60579
+log
+@@
+text
+@d13 1
+@
+
+
+1.60105
+log
+@@
+text
+@@

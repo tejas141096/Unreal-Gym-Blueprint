@@ -1,0 +1,110 @@
+head     1.60959;
+access   ;
+symbols  ;
+locks    ;comment  @@;
+
+
+1.60959
+date     2021.10.18.20.43.25;  author p4;  state Exp;
+branches ;
+next     1.60888;
+
+1.60888
+date     2021.10.18.05.05.56;  author p4;  state Exp;
+branches ;
+next     1.60884;
+
+1.60884
+date     2021.10.18.03.26.29;  author p4;  state Exp;
+branches ;
+next     1.60601;
+
+1.60601
+date     2021.10.06.12.09.07;  author p4;  state Exp;
+branches ;
+next     1.60581;
+
+1.60581
+date     2021.10.06.04.49.18;  author p4;  state Exp;
+branches ;
+next     1.60579;
+
+1.60579
+date     2021.10.06.04.31.15;  author p4;  state Exp;
+branches ;
+next     1.60105;
+
+1.60105
+date     2021.09.30.16.40.45;  author p4;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@@
+
+
+1.60959
+log
+@@
+text
+@{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": ""
+}@
+
+
+1.60888
+log
+@@
+text
+@d3 1
+a3 1
+	"EngineAssociation": "4.27",
+@
+
+
+1.60884
+log
+@@
+text
+@d3 1
+a3 1
+	"EngineAssociation": "4.26",
+@
+
+
+1.60601
+log
+@@
+text
+@@
+
+
+1.60581
+log
+@@
+text
+@d3 1
+a3 1
+	"EngineAssociation": "4.27",
+@
+
+
+1.60579
+log
+@@
+text
+@d3 1
+a3 1
+	"EngineAssociation": "4.26",
+@
+
+
+1.60105
+log
+@@
+text
+@@
